@@ -6,7 +6,7 @@ targets:
   gamepad:
     type: tool
     platform: macOS
-    deploymentTarget: "14.0"
+    deploymentTarget: "26.0"
     sources:
       - Sources
     dependencies:
@@ -14,5 +14,5 @@ targets:
         implicit: true
     settings:
       SWIFT_VERSION: "5.0"
-      MACOSX_DEPLOYMENT_TARGET: "14.0"
+      MACOSX_DEPLOYMENT_TARGET: "26.0"
       PRODUCT_NAME: gamepad

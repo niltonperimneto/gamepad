@@ -133,7 +133,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.niltonperimneto.gamepad;
 				PRODUCT_NAME = gamepad;
 				SDKROOT = macosx;
@@ -149,7 +149,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.niltonperimneto.gamepad;
 				PRODUCT_NAME = gamepad;
 				SDKROOT = macosx;

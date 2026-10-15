@@ -4,7 +4,7 @@ A macOS Command Line Tool built with Swift and Apple's `GameController` framewor
 
 ## Features
 
-- Native macOS CLI tool targeting macOS 14.0+
+- Native macOS CLI tool targeting macOS 26.0+
 - Built with Apple's `GameController` framework
 - Automatic discovery of connected gamepads and real-time connection/disconnection event handling
 - Full Xcode project (`gamepad.xcodeproj`) generated via [XcodeGen](https://github.com/yonaskolb/XcodeGen)
@@ -12,9 +12,9 @@ A macOS Command Line Tool built with Swift and Apple's `GameController` framewor
 
 ## Requirements
 
-- macOS 14.0 or later
-- Xcode 15.0 or later
-- Swift 5.9+
+- macOS 26.0 or later
+- Xcode 27.0 or later
+- Swift 6.0+
 
 ## Opening in Xcode
 
